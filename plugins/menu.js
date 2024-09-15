@@ -24,17 +24,16 @@ cmd({
 _ex-.aiHey_
 
 *SupportUs⤵*
-𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙-https://whatsapp.com/channel/0029ValK0gn4SpkP6iaXoj2y
-𝚈𝚘𝚞𝚝𝚞𝚋𝚎-https://youtube.com/@dila_lk
-𝚆𝚎𝚋𝚂𝚒𝚝𝚎-dilalk.vercel.app
-𝙱𝙾𝚃 𝚁𝚎𝚙𝚘-https://github.com/themiyadilann/Dila-MD/
+𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙-https://chat.whatsapp.com/DAD1FGg9dES0FpxtrUEheo
+𝚆𝚎𝚋𝚂𝚒𝚝𝚎-sy4m.vercel.app
+Insta-https://instagram.com/_sks_bot_
 
 *Uptime:* ${runtime(process.uptime())}
 *RAM Usage:* 
 - *Used*: ${usedRAM} MB
 - *Free*: ${freeRAM} MB
 - *Total*: ${totalRAM} MB
-*Owner:* ᴍʀ ᴅɪʟᴀ
+*Owner:* SY4M
 
 *OWNERMENU⤵*
 _.getsession_
@@ -107,7 +106,7 @@ _.ai_
 _.gemini_
 _.gpt3_
 
-dilalk.vercel.app
+sy4m.vercel.app
 ᵐᵃᵈᵆ ᵇʸ ᵐʳᵈⁱˡᵃ ᵒᶠᶜ`
 
 
